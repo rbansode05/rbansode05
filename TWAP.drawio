@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T12:29:24.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3oXm9hxF2MtWhnutYB2j" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T12:30:05.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lIOqdwzvWmWEeF2lgrCS" version="21.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,12 +35,12 @@
         </mxCell>
         <mxCell id="4YvWZQZbTfIQ1Qfl482Z-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.448;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="360" as="sourcePoint" />
-            <mxPoint x="490" y="370" as="targetPoint" />
+            <mxPoint x="490" y="340" as="sourcePoint" />
+            <mxPoint x="490" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YvWZQZbTfIQ1Qfl482Z-8" value="&amp;lt;&amp;lt; interface &amp;gt;&amp;gt;&lt;br&gt;TWAPCalculator&lt;br&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#00627a;&quot;&gt;calculateTWAP&lt;/span&gt;(&lt;span style=&quot;color:#000000;&quot;&gt;FeedCaptureIndexTickWindow &lt;/span&gt;feedInfo,&lt;span style=&quot;color:#000000;&quot;&gt;TWAPCalcType &lt;/span&gt;twapCalcType)&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="360" width="710" height="90" as="geometry" />
+          <mxGeometry x="150" y="340" width="710" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4YvWZQZbTfIQ1Qfl482Z-9" value="FuturesTWAPCalculator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="530" width="250" height="110" as="geometry" />
